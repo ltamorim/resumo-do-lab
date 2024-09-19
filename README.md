@@ -1,4 +1,4 @@
-# resumo-do-lab
+# resumo-do-lab-introducao
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
 Introdução ao ambiente Cloud:
